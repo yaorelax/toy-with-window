@@ -13,7 +13,7 @@ To hide console window itself which calls toydow :
 ```
 toydow hid @
 ```
-To destory the window called 『toydow - VSCode』
+To destory the window named "toydow - VSCode"
 ```
 toydow del "toydow - VSCode"
 ```
