@@ -17,3 +17,5 @@ To destory the window called 『toydow - VSCode』
 ```
 toydow del "toydow - VSCode"
 ```
+## Copyright and License
+Code and documentation copyright 2022 Yaorelax. Code released under [MIT License](https://github.com/yaorelax/toy-with-window/blob/main/LICENSE)
