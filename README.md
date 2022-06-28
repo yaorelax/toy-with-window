@@ -1,5 +1,5 @@
 # toy-with-window
-Toy with the windows on Windows as you can.
+Toy with the windows on Windows as you can. (hide window / reveal window / kill window)
 ## Start
 - Compile `toydow.cpp`
 - CMD : `toydow [hid|vis|del] [@|WindowTitle]`
